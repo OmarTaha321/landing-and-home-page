@@ -57,7 +57,5 @@ body {
 
 .btn:hover {
     background-color: #005838;
-    /* Darker green on hover */
     transform: scale(1.05);
-    /* Slight zoom on hover */
 }
