@@ -43,7 +43,6 @@ body {
     background-size: cover;
     background-position: center;
     height: calc(100vh - 80px);
-    /* 100vh minus navbar height */
     display: flex;
     align-items: center;
     justify-content: center;
